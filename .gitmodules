@@ -1,0 +1,4 @@
+[submodule "How-To-Secure-A-Linux-Server"]
+	path = How-To-Secure-A-Linux-Server
+	url = git@github.com:imthenachoman/How-To-Secure-A-Linux-Server.git
+	branch = master
