@@ -2,3 +2,7 @@
 	path = How-To-Secure-A-Linux-Server
 	url = git@github.com:imthenachoman/How-To-Secure-A-Linux-Server.git
 	branch = master
+[submodule "ws-screenshot"]
+	path = ws-screenshot
+	url = git@github.com:elestio/ws-screenshot.git
+	branch = master
