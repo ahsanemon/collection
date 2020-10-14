@@ -10,3 +10,15 @@
 	path = smartHome/smart-home_bachya
 	url = git@github.com:bachya/smart-home.git
 	branch = master
+[submodule "k8/ide/lens"]
+	path = k8/ide/lens
+	url = git@github.com:lensapp/lens.git
+	branch = master
+[submodule "k8/ide/kalm"]
+	path = k8/ide/kalm
+	url = git@github.com:kalmhq/kalm.git
+	branch = master
+[submodule "misc/zsh-autosuggestions"]
+	path = misc/zsh-autosuggestions
+	url = git@github.com:zsh-users/zsh-autosuggestions.git
+	branch = master
