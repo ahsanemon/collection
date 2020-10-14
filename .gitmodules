@@ -6,3 +6,7 @@
 	path = ws-screenshot
 	url = git@github.com:elestio/ws-screenshot.git
 	branch = master
+[submodule "smartHome/smart-home_bachya"]
+	path = smartHome/smart-home_bachya
+	url = git@github.com:bachya/smart-home.git
+	branch = master
