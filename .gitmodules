@@ -22,3 +22,15 @@
 	path = misc/zsh-autosuggestions
 	url = git@github.com:zsh-users/zsh-autosuggestions.git
 	branch = master
+[submodule "selfhosted/awesome-selfhosted"]
+	path = selfhosted/awesome-selfhosted
+	url = git@github.com:awesome-selfhosted/awesome-selfhosted.git
+	branch = master
+[submodule "linux/security/ansible-ssh-hardening"]
+	path = linux/security/ansible-ssh-hardening
+	url = git@github.com:dev-sec/ansible-ssh-hardening.git
+	branch = master
+[submodule "linux/security/How-To-Secure-A-Linux-Server"]
+	path = linux/security/How-To-Secure-A-Linux-Server
+	url = git@github.com:imthenachoman/How-To-Secure-A-Linux-Server.git
+	branch = master
